@@ -5,6 +5,10 @@
 *Three pull requests are send to dropwizard-bundles/dropwizard-configurable-assets-bundle.*
 *When the pull requests are merged, then be.fluid-it.tools.dropwizard:dropwizard-configurable-assets-bundle:0.8.2-1 becomes obsolete.* 
 
+*Added fautures:*
+* *Resource path to uri mappings can be specified in the configuration file*
+* *`Zip` protocol supported for URLs (The zip protocol is used by Weblogic) DropWizard only supports `jar` and `file` out of the box*
+
 This GitHub repository contains a drop-in replacement for Yammer's `AssetsBundle` class that allows
 for a better developer experience.  Developers can use the `ConfiguredAssetsBundle` class anywhere
 they would use a `AssetsBundle` in their Dropwizard applications and take advantage of the ability
