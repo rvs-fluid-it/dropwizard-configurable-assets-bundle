@@ -1,5 +1,10 @@
 # Configurable Assets Bundle for Dropwizard
 
+*Warning:*
+
+*Three pull requests are send to dropwizard-bundles/dropwizard-configurable-assets-bundle.*
+*When the pull requests are merged, then be.fluid-it.tools.dropwizard:dropwizard-configurable-assets-bundle:0.8.2-1 becomes obsolete.* 
+
 This GitHub repository contains a drop-in replacement for Yammer's `AssetsBundle` class that allows
 for a better developer experience.  Developers can use the `ConfiguredAssetsBundle` class anywhere
 they would use a `AssetsBundle` in their Dropwizard applications and take advantage of the ability
@@ -12,9 +17,9 @@ developers to edit browser-interpreted files and reload them without needing to 
 
 ```xml
 <dependency>
-  <groupId>io.dropwizard-bundles</groupId>
+  <groupId>be.fluid-it.tools.dropwizard</groupId>
   <artifactId>dropwizard-configurable-assets-bundle</artifactId>
-  <version>0.8.1</version>
+  <version>0.8.2-1</version>
 </dependency>
 ```
 
