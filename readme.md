@@ -2,7 +2,8 @@
 
 *Warning:*
 
-*Three pull requests are send to dropwizard-bundles/dropwizard-configurable-assets-bundle.*
+*This project is a fork and has a limited lifetime.*
+*Three pull requests are send currently to dropwizard-bundles/dropwizard-configurable-assets-bundle.*
 *When the pull requests are merged, then be.fluid-it.tools.dropwizard:dropwizard-configurable-assets-bundle:0.8.2-1 becomes obsolete.* 
 
 *Added fautures:*
